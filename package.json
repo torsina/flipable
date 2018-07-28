@@ -1,0 +1,23 @@
+{
+  "name": "flipable",
+  "version": "1.0.0",
+  "description": "express app used to export data on the price of items over time in the mmorpg Guild Wars 2 into excel",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torsina/flipable.git"
+  },
+  "author": "Theo Sagot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torsina/flipable/issues"
+  },
+  "homepage": "https://github.com/torsina/flipable#readme"
+}
